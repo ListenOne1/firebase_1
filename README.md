@@ -1,10 +1,8 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I try to learn Firestore because I want to learn how to store the value from the user. It is useful when receiving data from the user or organizing users' accounts. The things I try to accomplish in this project are having a basic understanding of the Firestore, and in the future, I have the chance to implement these methods into a different project.
 
-{Provide a description the software that you wrote and how it integrates with a Cloud Database.  Describe how to use your program.}
-
-{Describe your purpose for writing this software.}
+This program has add, delete, update and sort functions. In the Add function, the user can put the input, and the program will store the value in Firestore. In the Delete function, the user can delete the existing value in the Firestore. In the Update function, the user can change the value of the item and not create a new product. In the Sort function, the user can sort the data by the value of the cost descending or ascending.
 
 [Software Demo Video](https://www.youtube.com/watch?v=621c0iTL0oY)
 
