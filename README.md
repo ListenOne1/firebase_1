@@ -6,21 +6,23 @@
 
 {Describe your purpose for writing this software.}
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
 [Software Demo Video](https://www.youtube.com/watch?v=621c0iTL0oY)
 
 # Cloud Database
 
-{Describe the cloud database you are using.}
+Cloud Firestore
 
 {Describe the structure of the database that you created.}
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+Visual studio code
 
-{Describe the programming language that you used and any libraries.}
+Firestore
+
+HTML
+
+JavaScrpt / June 2021
 
 # Useful Websites
 
@@ -30,7 +32,4 @@
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* import user authentication
