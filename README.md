@@ -10,9 +10,7 @@
 
 # Cloud Database
 
-Cloud Firestore
-
-{Describe the structure of the database that you created.}
+Cloud Firestore: I use add delete update and sort function.
 
 # Development Environment
 
@@ -28,7 +26,7 @@ JavaScrpt / June 2021
 
 {Make a list of websites that you found helpful in this project}
 * [Firestore Tutorial (official site)](https://firebase.google.com/docs/firestore)
-* [Web Site Name](http://url.link.goes.here)
+* [Youtube Tutorial](https://www.youtube.com/watch?v=fgdpvwEWJ9M)
 
 # Future Work
 
